@@ -1,6 +1,6 @@
-# ouab-survey
+# survey-analysis
 
-ouab-survey is a Java program that reads in a singular or directory of text files and counts each unique line.
+survey-analysis is a Java program that reads in a singular or directory of text files and counts each unique line.
 
 ## About
 
